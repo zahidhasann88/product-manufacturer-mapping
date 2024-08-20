@@ -1,0 +1,389 @@
+{"level":"info","message":"Starting product-manufacturer-mapping process"}
+{"level":"info","message":"Successfully read 30000 rows from data\\ntn-lt-data.csv"}
+{"level":"info","message":"Successfully loaded 30000 products from ntn-lt-data.csv"}
+{"level":"info","message":"Successfully read 17922 rows from data\\azt-lt-data.csv"}
+{"level":"info","message":"Successfully loaded 17922 products from azt-lt-data.csv"}
+{"level":"info","message":"Successfully read 4060 rows from data\\apo-lt-data.csv"}
+{"level":"info","message":"Successfully loaded 4060 products from apo-lt-data.csv"}
+{"level":"info","message":"Successfully read 7204 rows from data\\bnu-lt-data.csv"}
+{"level":"info","message":"Successfully loaded 7204 products from bnu-lt-data.csv"}
+{"level":"info","message":"Successfully read 21373 rows from data\\cma-lt-data.csv"}
+{"level":"info","message":"Successfully loaded 21373 products from cma-lt-data.csv"}
+{"level":"info","message":"Successfully read 18844 rows from data\\gin-lt-data.csv"}
+{"level":"info","message":"Successfully loaded 18844 products from gin-lt-data.csv"}
+{"level":"info","message":"Successfully read 37578 rows from data\\matches.csv"}
+{"level":"info","message":"Successfully loaded 37578 matches"}
+{"level":"info","message":"Loaded 99403 products and 37578 matches in total"}
+{"level":"info","message":"Mapping 99403 products and 37578 matches"}
+{"level":"info","message":"Generated 3081 manufacturer relations"}
+{"level":"info","message":"Database initialized successfully"}
+{"level":"info","message":"Saved 3081 manufacturer relations"}
+{"level":"info","message":"Successfully saved manufacturer relations to the database"}
+{"level":"info","message":"Assigned brand for \"Brand X Super Product\": No brand assigned"}
+{"level":"warn","message":"High similarity between ROYAL DENTA and royal-denta"}
+{"level":"warn","message":"High similarity between DR. BROWN S and DR. BROWNS"}
+{"level":"warn","message":"High similarity between DR. BROWN S and dr-brown-s"}
+{"level":"warn","message":"High similarity between DR. BROWNS and DR. BROWN S"}
+{"level":"warn","message":"High similarity between MOLLERS and MOLLER"}
+{"level":"warn","message":"High similarity between MOLLER and MOLLERS"}
+{"level":"warn","message":"High similarity between GENTLE DAY and gentle-day"}
+{"level":"warn","message":"High similarity between NEW NORDIC and new-nordic"}
+{"level":"warn","message":"High similarity between LA ROCHE-POSAY and la-roche-posay"}
+{"level":"warn","message":"High similarity between SMART HIT and SMARTHIT"}
+{"level":"warn","message":"High similarity between SMART HIT and smarthit"}
+{"level":"warn","message":"High similarity between AVENE and Avène"}
+{"level":"warn","message":"High similarity between PHARMA OIL and pharma-oil"}
+{"level":"warn","message":"High similarity between VITABALANS and Vitabalans Oy"}
+{"level":"warn","message":"High similarity between Vitabalans Oy and VITABALANS"}
+{"level":"warn","message":"High similarity between ORAL-B and ORAL B"}
+{"level":"warn","message":"High similarity between ORAL-B and Oral B"}
+{"level":"warn","message":"High similarity between ORAL B and ORAL-B"}
+{"level":"warn","message":"High similarity between RENE FURTERER and René Furterer"}
+{"level":"warn","message":"High similarity between RENE FURTERER and rene-furterer"}
+{"level":"warn","message":"Invalid manufacturer name: BD"}
+{"level":"warn","message":"High similarity between ACTIVON TUBE and ActivonTube"}
+{"level":"warn","message":"High similarity between KAMISTAD and Kamistad N"}
+{"level":"warn","message":"High similarity between Kamistad N and KAMISTAD"}
+{"level":"warn","message":"High similarity between ASPIRIN and Aspirin-C"}
+{"level":"warn","message":"High similarity between AUSTRALIAN BODYCARE and australian-bodycare"}
+{"level":"warn","message":"High similarity between RAPID WHITE and rapid-white"}
+{"level":"warn","message":"High similarity between PHOSPHOR HOMACCORD and PHOSPHOR-HOMACCORD"}
+{"level":"warn","message":"High similarity between PHOSPHOR-HOMACCORD and PHOSPHOR HOMACCORD"}
+{"level":"warn","message":"High similarity between TEARS NATURALE and tears-naturale"}
+{"level":"warn","message":"High similarity between PERTUSINAS and PERTUSIN"}
+{"level":"warn","message":"High similarity between KLIMADYNON and KLIMADYON"}
+{"level":"warn","message":"High similarity between KLIMADYON and KLIMADYNON"}
+{"level":"warn","message":"High similarity between TANTUM VERDE and tantum-verde"}
+{"level":"warn","message":"High similarity between ACCU-CHEK and accu-check"}
+{"level":"warn","message":"High similarity between PHARMA NORD and pharma-nord"}
+{"level":"warn","message":"High similarity between BIO OIL and BIO-OIL"}
+{"level":"warn","message":"High similarity between BIO OIL and Bio-Oil"}
+{"level":"warn","message":"High similarity between BIO OIL and bio-oil"}
+{"level":"warn","message":"High similarity between BIO-OIL and BIO OIL"}
+{"level":"warn","message":"High similarity between Bio-Oil and BIO OIL"}
+{"level":"warn","message":"High similarity between ACORUS BALANCE and acorus-balance"}
+{"level":"warn","message":"High similarity between KREON 10000 V and KREON 10 000 U"}
+{"level":"warn","message":"High similarity between KREON 10 000 U and KREON 10000 V"}
+{"level":"warn","message":"High similarity between IDUN MINERALS and idun-minerals"}
+{"level":"warn","message":"High similarity between PROPOLIO and PROPOLIS"}
+{"level":"warn","message":"High similarity between PROPOLIS and PROPOLIO"}
+{"level":"warn","message":"High similarity between ACTAVIT and Actavis"}
+{"level":"warn","message":"High similarity between MARSIEČIAI and marsieciai"}
+{"level":"warn","message":"High similarity between DR. THEISS and dr-theiss"}
+{"level":"warn","message":"High similarity between RECO BALANCE and RECOBALANCE"}
+{"level":"warn","message":"High similarity between RECO BALANCE and recobalance"}
+{"level":"warn","message":"High similarity between RECOBALANCE and RECO BALANCE"}
+{"level":"warn","message":"High similarity between NIZORAL and Nirozal"}
+{"level":"warn","message":"High similarity between LACTOSEVEN and Lacto Seven"}
+{"level":"warn","message":"High similarity between ESPUMISAN and Epsumisan"}
+{"level":"warn","message":"High similarity between NEOASKOFENAS and NEOASKOFEN"}
+{"level":"warn","message":"High similarity between NEOASKOFEN and NEOASKOFENAS"}
+{"level":"warn","message":"High similarity between GAMTOS NAMAI and gamtos-namai"}
+{"level":"warn","message":"High similarity between LBIOTICA and l-biotica"}
+{"level":"warn","message":"High similarity between RAW POWDERS and raw-powders"}
+{"level":"warn","message":"High similarity between René Furterer and RENE FURTERER"}
+{"level":"warn","message":"High similarity between NIP + FAB and NIP+FAB"}
+{"level":"warn","message":"High similarity between NIP+FAB and NIP + FAB"}
+{"level":"warn","message":"High similarity between Oral B and ORAL-B"}
+{"level":"warn","message":"High similarity between Avène and AVENE"}
+{"level":"warn","message":"High similarity between MADARA and Mádara"}
+{"level":"warn","message":"High similarity between Mádara and MADARA"}
+{"level":"warn","message":"High similarity between KERASTASE and Kérastase"}
+{"level":"warn","message":"High similarity between Kérastase and KERASTASE"}
+{"level":"warn","message":"High similarity between ORGANIC PHARMACY and The Organic Pharmacy"}
+{"level":"warn","message":"High similarity between ORGANIC PHARMACY and THE ORGANIC PHARMACY"}
+{"level":"warn","message":"High similarity between The Organic Pharmacy and ORGANIC PHARMACY"}
+{"level":"warn","message":"High similarity between SMARTHIT and SMART HIT"}
+{"level":"warn","message":"High similarity between FORMULA VITALE and formula-vitale"}
+{"level":"warn","message":"High similarity between ROYAL GREEN and royal-green"}
+{"level":"warn","message":"High similarity between MERZ SPEZIAL and merz-spezial"}
+{"level":"warn","message":"High similarity between VITA LAB and VITA-LAB"}
+{"level":"warn","message":"High similarity between VITA LAB and vita-lab"}
+{"level":"warn","message":"High similarity between VITA-LAB and VITA LAB"}
+{"level":"warn","message":"High similarity between ALLMATTERS and allmattters"}
+{"level":"warn","message":"High similarity between la-roche-posay and LA ROCHE-POSAY"}
+{"level":"warn","message":"High similarity between l-biotica and LBIOTICA"}
+{"level":"warn","message":"High similarity between ORO DI SPELLO and oro-di-spello"}
+{"level":"warn","message":"High similarity between oro-di-spello and ORO DI SPELLO"}
+{"level":"warn","message":"High similarity between new-nordic and NEW NORDIC"}
+{"level":"warn","message":"High similarity between gamtos-namai and GAMTOS NAMAI"}
+{"level":"warn","message":"High similarity between FAITH IN NATURE and faith-in-nature"}
+{"level":"warn","message":"High similarity between faith-in-nature and FAITH IN NATURE"}
+{"level":"warn","message":"High similarity between YOU 2.0 and you-2-0"}
+{"level":"warn","message":"High similarity between you-2-0 and YOU 2.0"}
+{"level":"warn","message":"High similarity between PROTO-COL and PROTO COL"}
+{"level":"warn","message":"High similarity between pharma-oil and PHARMA OIL"}
+{"level":"warn","message":"High similarity between PLACENTA VITAE and placenta-vitae"}
+{"level":"warn","message":"High similarity between placenta-vitae and PLACENTA VITAE"}
+{"level":"warn","message":"High similarity between DR. HAUSCHKA and dr-hauschka"}
+{"level":"warn","message":"High similarity between dr-hauschka and DR. HAUSCHKA"}
+{"level":"warn","message":"High similarity between SWISS SMILE and swiss-smile"}
+{"level":"warn","message":"High similarity between swiss-smile and SWISS SMILE"}
+{"level":"warn","message":"High similarity between SCITEC NUTRITION and scitec-nutrition"}
+{"level":"warn","message":"High similarity between scitec-nutrition and SCITEC NUTRITION"}
+{"level":"warn","message":"High similarity between raw-powders and RAW POWDERS"}
+{"level":"warn","message":"High similarity between rene-furterer and RENE FURTERER"}
+{"level":"warn","message":"High similarity between INNOVATIVE PHARMA and innovative-pharma"}
+{"level":"warn","message":"High similarity between innovative-pharma and INNOVATIVE PHARMA"}
+{"level":"warn","message":"High similarity between HAIR CARE PANDA and hair-care-panda"}
+{"level":"warn","message":"High similarity between HAIR CARE PANDA and Hair Car Panda"}
+{"level":"warn","message":"High similarity between hair-care-panda and HAIR CARE PANDA"}
+{"level":"warn","message":"High similarity between BJÖRN AXÉN and Bjorn Axen"}
+{"level":"warn","message":"High similarity between merz-spezial and MERZ SPEZIAL"}
+{"level":"warn","message":"High similarity between idun-minerals and IDUN MINERALS"}
+{"level":"warn","message":"High similarity between NATURA MEDIA and natura-media"}
+{"level":"warn","message":"High similarity between ICE POWER and ice-power"}
+{"level":"warn","message":"High similarity between ice-power and ICE POWER"}
+{"level":"warn","message":"High similarity between FERTOWISH and FERTO WISH"}
+{"level":"warn","message":"High similarity between FERTO WISH and FERTOWISH"}
+{"level":"warn","message":"Invalid manufacturer name: C4"}
+{"level":"warn","message":"High similarity between DR. BRANDT and DR.BRANDT"}
+{"level":"warn","message":"High similarity between B.WELL and b-well"}
+{"level":"warn","message":"High similarity between THE ORGANIC PHARMACY and ORGANIC PHARMACY"}
+{"level":"warn","message":"High similarity between ESU LAPĖ and esu-lape"}
+{"level":"warn","message":"High similarity between BERBERINAS and Berberina"}
+{"level":"warn","message":"High similarity between Berberina and BERBERINAS"}
+{"level":"warn","message":"High similarity between CLINIC WAY and clinic-way"}
+{"level":"warn","message":"High similarity between DENTINALE NATURA and dentinale-natura"}
+{"level":"warn","message":"High similarity between LIFESTYLES and LIFESTYLE"}
+{"level":"warn","message":"High similarity between LIFESTYLE and LIFESTYLES"}
+{"level":"warn","message":"High similarity between SMART WAY and smart-way"}
+{"level":"warn","message":"High similarity between WORTIE and wartie"}
+{"level":"warn","message":"High similarity between VIPROSAL and VIPROSAL-B"}
+{"level":"warn","message":"High similarity between VIPROSAL and Viprosal B"}
+{"level":"warn","message":"High similarity between VIPROSAL-B and VIPROSAL"}
+{"level":"warn","message":"High similarity between Viprosal B and VIPROSAL"}
+{"level":"warn","message":"High similarity between TOMMEE TIPPEE and tommee-tippee"}
+{"level":"warn","message":"High similarity between MINOXIDIL INTELI and minoxidil-inteli"}
+{"level":"warn","message":"High similarity between ORLISTAT POLPHARMA and orlistat-polpharma"}
+{"level":"warn","message":"High similarity between TONSILGON and TONSILGON N"}
+{"level":"warn","message":"High similarity between TONSILGON N and TONSILGON"}
+{"level":"warn","message":"High similarity between BORO PLUS and boro-plus"}
+{"level":"warn","message":"High similarity between TICHOLIQUIN and Tacholiquin"}
+{"level":"warn","message":"High similarity between TICHOLIQUIN and tacholiquin"}
+{"level":"warn","message":"High similarity between Tacholiquin and TICHOLIQUIN"}
+{"level":"warn","message":"High similarity between GOOD SLEEP and good-sleep"}
+{"level":"warn","message":"High similarity between CINNABSIN N and CINNABSIN"}
+{"level":"warn","message":"High similarity between CINNABSIN N and Cinnabsin"}
+{"level":"warn","message":"High similarity between CINNABSIN N and cinnabsin"}
+{"level":"warn","message":"High similarity between CINNABSIN and CINNABSIN N"}
+{"level":"warn","message":"High similarity between Cinnabsin and CINNABSIN N"}
+{"level":"warn","message":"High similarity between Aspirin-C and ASPIRIN"}
+{"level":"warn","message":"High similarity between PERTUSIN and PERTUSINAS"}
+{"level":"warn","message":"High similarity between LIUGOL and LIUGOLIS"}
+{"level":"warn","message":"High similarity between NOSEFRIDA and NOSE FRIDA"}
+{"level":"warn","message":"High similarity between NOSE FRIDA and NOSEFRIDA"}
+{"level":"warn","message":"High similarity between ActivonTube and ACTIVON TUBE"}
+{"level":"warn","message":"High similarity between OLEFAR DUO and olefar-duo"}
+{"level":"warn","message":"High similarity between ESTEEM+ and Esteem"}
+{"level":"warn","message":"High similarity between ESTEEM+ and esteem"}
+{"level":"warn","message":"High similarity between Esteem and ESTEEM+"}
+{"level":"warn","message":"High similarity between HELEN SEWARD and helen-seward"}
+{"level":"warn","message":"High similarity between LACTO HEAL and LACTOHEAL"}
+{"level":"warn","message":"High similarity between LACTO HEAL and lactoheal"}
+{"level":"warn","message":"High similarity between LACTOHEAL and LACTO HEAL"}
+{"level":"warn","message":"High similarity between DMC MASK and DMCMASK"}
+{"level":"warn","message":"High similarity between DMCMASK and DMC MASK"}
+{"level":"warn","message":"High similarity between EVA/QU and evaqu"}
+{"level":"warn","message":"High similarity between LADY ANION and lady-anion"}
+{"level":"warn","message":"High similarity between L.O.L. and L.O.L"}
+{"level":"warn","message":"High similarity between L.O.L and L.O.L."}
+{"level":"warn","message":"High similarity between LES 101 DALMATIENS and 101 DALMATIENS"}
+{"level":"warn","message":"High similarity between 101 DALMATIENS and LES 101 DALMATIENS"}
+{"level":"warn","message":"High similarity between MAGNE B6 and magne-b6"}
+{"level":"warn","message":"High similarity between GOWIPES and Go Wipes"}
+{"level":"warn","message":"High similarity between Go Wipes and GOWIPES"}
+{"level":"warn","message":"High similarity between POTASSIUM IODIDE G.L. PHARMA and potassium-iodide-g-l-pharma"}
+{"level":"warn","message":"High similarity between EXCILOR and exicilor"}
+{"level":"warn","message":"High similarity between LAX FORTE and LaxForte"}
+{"level":"warn","message":"High similarity between LAX FORTE and LAXFORTE"}
+{"level":"warn","message":"High similarity between LAX FORTE and laxforte"}
+{"level":"warn","message":"High similarity between LaxForte and LAX FORTE"}
+{"level":"warn","message":"High similarity between LAXFORTE and LAX FORTE"}
+{"level":"warn","message":"High similarity between ACTIVE FLORA and active-flora"}
+{"level":"warn","message":"High similarity between GO POWDERS and go-powders"}
+{"level":"warn","message":"High similarity between ŽOLYNĖLIS and zolynelis"}
+{"level":"warn","message":"High similarity between JUNIOR-ANGIN and JUNIOR ANGIN"}
+{"level":"warn","message":"High similarity between JUNIOR ANGIN and JUNIOR-ANGIN"}
+{"level":"warn","message":"High similarity between PARACETAMOL RATIOPHARM and Paracetamol-ratiopharm"}
+{"level":"warn","message":"High similarity between Paracetamol-ratiopharm and PARACETAMOL RATIOPHARM"}
+{"level":"warn","message":"High similarity between PSILO BALSAM and PSILO-BALSAM"}
+{"level":"warn","message":"High similarity between PSILO BALSAM and psilo-balsam"}
+{"level":"warn","message":"High similarity between PSILO BALSAM and Psilo-Balsam"}
+{"level":"warn","message":"High similarity between PSILO-BALSAM and PSILO BALSAM"}
+{"level":"warn","message":"High similarity between KAPSIKAM and Kampsikam"}
+{"level":"warn","message":"High similarity between Kampsikam and KAPSIKAM"}
+{"level":"warn","message":"High similarity between NEOCITRAMONAS and NEOCITRAMON"}
+{"level":"warn","message":"High similarity between NEOCITRAMON and NEOCITRAMONAS"}
+{"level":"warn","message":"High similarity between LIUGOLIS and LIUGOL"}
+{"level":"warn","message":"High similarity between OTIPAX and Optipax"}
+{"level":"warn","message":"High similarity between Optipax and OTIPAX"}
+{"level":"warn","message":"High similarity between ACICLOVIR ACTAVIS and aciclovir-actavis"}
+{"level":"warn","message":"High similarity between POTASSIUM and potassium-u"}
+{"level":"warn","message":"High similarity between DERMA FORTE and DERMAFORTE"}
+{"level":"warn","message":"High similarity between DERMA FORTE and derma-forte"}
+{"level":"warn","message":"High similarity between DERMAFORTE and DERMA FORTE"}
+{"level":"warn","message":"High similarity between DEEP HEAT and deep-heat"}
+{"level":"warn","message":"High similarity between NATURA HOUSE and natura-house"}
+{"level":"warn","message":"High similarity between H DROP and h-drop"}
+{"level":"warn","message":"High similarity between CECE MED and cece-med"}
+{"level":"warn","message":"High similarity between Hair Car Panda and HAIR CARE PANDA"}
+{"level":"warn","message":"High similarity between EASY ICE and EasyIce"}
+{"level":"warn","message":"High similarity between EasyIce and EASY ICE"}
+{"level":"warn","message":"High similarity between ESTROMINERALE and ESTROMINERAL"}
+{"level":"warn","message":"High similarity between ESTROMINERAL and ESTROMINERALE"}
+{"level":"warn","message":"High similarity between Actavis and ACTAVIT"}
+{"level":"warn","message":"High similarity between Lacto Seven and LACTOSEVEN"}
+{"level":"warn","message":"High similarity between GROŽVITA and grozvita"}
+{"level":"warn","message":"High similarity between GOOD FIBER and good-fiber"}
+{"level":"warn","message":"High similarity between SUMATRIPTAN ACTAVIS and sumatriptan-actavis"}
+{"level":"warn","message":"High similarity between PARACETAMOL ZENTIVA and paracetamol-zentiva"}
+{"level":"warn","message":"High similarity between ACTI FRESH and acti-fresh"}
+{"level":"warn","message":"High similarity between PRURIGYNE and PRURI GYNE"}
+{"level":"warn","message":"High similarity between PRURI GYNE and PRURIGYNE"}
+{"level":"warn","message":"High similarity between VITA-D-LIPP and VITADLIP"}
+{"level":"warn","message":"High similarity between VITA-D-LIPP and vita-d-lip"}
+{"level":"warn","message":"High similarity between VITADLIP and VITA-D-LIPP"}
+{"level":"warn","message":"High similarity between NALGESIN and NALGESIN S"}
+{"level":"warn","message":"High similarity between HYDROCORTISON TAKEDA and HYDROCORTISONE DAK"}
+{"level":"warn","message":"High similarity between HYDROCORTISONE DAK and HYDROCORTISON TAKEDA"}
+{"level":"warn","message":"High similarity between Epsumisan and ESPUMISAN"}
+{"level":"warn","message":"High similarity between NAVI INFLA and NAVIINFLA"}
+{"level":"warn","message":"High similarity between NAVI INFLA and navi-infla"}
+{"level":"warn","message":"High similarity between NAVIINFLA and NAVI INFLA"}
+{"level":"warn","message":"High similarity between THROMBO ASS and thrombo-ass"}
+{"level":"warn","message":"High similarity between VICTORIA BEAUTY and victoria-beauty"}
+{"level":"warn","message":"High similarity between PROTO COL and PROTO-COL"}
+{"level":"warn","message":"High similarity between ALOE VERA and Aloe Pura"}
+{"level":"warn","message":"High similarity between Bjorn Axen and BJÖRN AXÉN"}
+{"level":"warn","message":"High similarity between MOUSITCARE and Mousticare"}
+{"level":"warn","message":"High similarity between MOUSITCARE and MOUSTICARE"}
+{"level":"warn","message":"High similarity between MOUSITCARE and mousticare"}
+{"level":"warn","message":"High similarity between Mousticare and MOUSITCARE"}
+{"level":"warn","message":"High similarity between MOUSTICARE and MOUSITCARE"}
+{"level":"warn","message":"Invalid manufacturer name: 911"}
+{"level":"warn","message":"Invalid manufacturer name: 911"}
+{"level":"warn","message":"High similarity between natura-house and NATURA HOUSE"}
+{"level":"warn","message":"High similarity between australian-bodycare and AUSTRALIAN BODYCARE"}
+{"level":"warn","message":"High similarity between APETIT KONTROL and apetit-kontrol"}
+{"level":"warn","message":"High similarity between apetit-kontrol and APETIT KONTROL"}
+{"level":"warn","message":"High similarity between tommee-tippee and TOMMEE TIPPEE"}
+{"level":"warn","message":"High similarity between cece-med and CECE MED"}
+{"level":"warn","message":"High similarity between pharma-nord and PHARMA NORD"}
+{"level":"warn","message":"High similarity between tears-naturale and TEARS NATURALE"}
+{"level":"warn","message":"High similarity between evaqu and EVA/QU"}
+{"level":"warn","message":"High similarity between DR. RETTER and dr-retter"}
+{"level":"warn","message":"High similarity between dr-retter and DR. RETTER"}
+{"level":"warn","message":"High similarity between active-flora and ACTIVE FLORA"}
+{"level":"warn","message":"High similarity between rapid-white and RAPID WHITE"}
+{"level":"warn","message":"High similarity between allmattters and ALLMATTERS"}
+{"level":"warn","message":"High similarity between sumatriptan-actavis and SUMATRIPTAN ACTAVIS"}
+{"level":"warn","message":"High similarity between dr-theiss and DR. THEISS"}
+{"level":"warn","message":"High similarity between tantum-verde and TANTUM VERDE"}
+{"level":"warn","message":"High similarity between cinnabsin and CINNABSIN N"}
+{"level":"warn","message":"High similarity between potassium-iodide-g-l-pharma and POTASSIUM IODIDE G.L. PHARMA"}
+{"level":"warn","message":"High similarity between thrombo-ass and THROMBO ASS"}
+{"level":"warn","message":"High similarity between psilo-balsam and PSILO BALSAM"}
+{"level":"warn","message":"High similarity between acorus-balance and ACORUS BALANCE"}
+{"level":"warn","message":"High similarity between tacholiquin and TICHOLIQUIN"}
+{"level":"warn","message":"High similarity between accu-check and ACCU-CHEK"}
+{"level":"warn","message":"High similarity between aciclovir-actavis and ACICLOVIR ACTAVIS"}
+{"level":"warn","message":"High similarity between PIRANTELIS MEDANA and PYRANTELUM MEDANA"}
+{"level":"warn","message":"High similarity between esteem and ESTEEM+"}
+{"level":"warn","message":"High similarity between clinic-way and CLINIC WAY"}
+{"level":"warn","message":"High similarity between SWISS IMAGE and swiss-image"}
+{"level":"warn","message":"High similarity between swiss-image and SWISS IMAGE"}
+{"level":"warn","message":"High similarity between dr-brown-s and DR. BROWN S"}
+{"level":"warn","message":"High similarity between helen-seward and HELEN SEWARD"}
+{"level":"warn","message":"High similarity between victoria-beauty and VICTORIA BEAUTY"}
+{"level":"warn","message":"High similarity between formula-vitale and FORMULA VITALE"}
+{"level":"warn","message":"High similarity between royal-green and ROYAL GREEN"}
+{"level":"warn","message":"High similarity between gentle-day and GENTLE DAY"}
+{"level":"warn","message":"High similarity between h-drop and H DROP"}
+{"level":"warn","message":"High similarity between marsieciai and MARSIEČIAI"}
+{"level":"warn","message":"High similarity between navi-infla and NAVI INFLA"}
+{"level":"warn","message":"High similarity between smart-way and SMART WAY"}
+{"level":"warn","message":"High similarity between royal-denta and ROYAL DENTA"}
+{"level":"warn","message":"High similarity between STOP STRESS and stop-stress"}
+{"level":"warn","message":"High similarity between stop-stress and STOP STRESS"}
+{"level":"warn","message":"High similarity between magne-b6 and MAGNE B6"}
+{"level":"warn","message":"High similarity between b-well and B.WELL"}
+{"level":"warn","message":"High similarity between derma-forte and DERMA FORTE"}
+{"level":"warn","message":"High similarity between exicilor and EXCILOR"}
+{"level":"warn","message":"High similarity between paracetamol-zentiva and PARACETAMOL ZENTIVA"}
+{"level":"warn","message":"High similarity between MOBIVEN MICRO and mobiven-micro"}
+{"level":"warn","message":"High similarity between mobiven-micro and MOBIVEN MICRO"}
+{"level":"warn","message":"High similarity between potassium-u and POTASSIUM"}
+{"level":"warn","message":"High similarity between vita-lab and VITA LAB"}
+{"level":"warn","message":"High similarity between natura-media and NATURA MEDIA"}
+{"level":"warn","message":"High similarity between orlistat-polpharma and ORLISTAT POLPHARMA"}
+{"level":"warn","message":"High similarity between deep-heat and DEEP HEAT"}
+{"level":"warn","message":"High similarity between minoxidil-inteli and MINOXIDIL INTELI"}
+{"level":"warn","message":"High similarity between acti-fresh and ACTI FRESH"}
+{"level":"warn","message":"High similarity between EASYFISHOIL and easy-fishoil"}
+{"level":"warn","message":"High similarity between easy-fishoil and EASYFISHOIL"}
+{"level":"warn","message":"High similarity between smarthit and SMART HIT"}
+{"level":"warn","message":"High similarity between HYALO MAX and hyalo-max"}
+{"level":"warn","message":"High similarity between hyalo-max and HYALO MAX"}
+{"level":"warn","message":"High similarity between vita-d-lip and VITA-D-LIPP"}
+{"level":"warn","message":"High similarity between grozvita and GROŽVITA"}
+{"level":"warn","message":"High similarity between lady-anion and LADY ANION"}
+{"level":"warn","message":"High similarity between MY GASTRIC and my-gastric"}
+{"level":"warn","message":"High similarity between my-gastric and MY GASTRIC"}
+{"level":"warn","message":"High similarity between IMUNOSIL VIRUFIX and imunosil-virufix"}
+{"level":"warn","message":"High similarity between imunosil-virufix and IMUNOSIL VIRUFIX"}
+{"level":"warn","message":"High similarity between ZEIN PHARMA and zein-pharma"}
+{"level":"warn","message":"High similarity between zein-pharma and ZEIN PHARMA"}
+{"level":"warn","message":"High similarity between bio-oil and BIO OIL"}
+{"level":"warn","message":"High similarity between wartie and WORTIE"}
+{"level":"warn","message":"High similarity between CONCEIVE PLUS and conceive-plus"}
+{"level":"warn","message":"High similarity between conceive-plus and CONCEIVE PLUS"}
+{"level":"warn","message":"High similarity between good-sleep and GOOD SLEEP"}
+{"level":"warn","message":"High similarity between MY FLORA and my-flora"}
+{"level":"warn","message":"High similarity between my-flora and MY FLORA"}
+{"level":"warn","message":"High similarity between boro-plus and BORO PLUS"}
+{"level":"warn","message":"High similarity between KARDIO START and kardio-start"}
+{"level":"warn","message":"High similarity between kardio-start and KARDIO START"}
+{"level":"warn","message":"High similarity between go-powders and GO POWDERS"}
+{"level":"warn","message":"High similarity between laxforte and LAX FORTE"}
+{"level":"warn","message":"High similarity between lactoheal and LACTO HEAL"}
+{"level":"warn","message":"High similarity between NATURES FINEST and natures-finest"}
+{"level":"warn","message":"High similarity between natures-finest and NATURES FINEST"}
+{"level":"warn","message":"High similarity between good-fiber and GOOD FIBER"}
+{"level":"warn","message":"High similarity between olefar-duo and OLEFAR DUO"}
+{"level":"warn","message":"High similarity between mousticare and MOUSITCARE"}
+{"level":"warn","message":"High similarity between CO LACTASE and co-lactase"}
+{"level":"warn","message":"High similarity between co-lactase and CO LACTASE"}
+{"level":"warn","message":"High similarity between OHISAN and ochisan"}
+{"level":"warn","message":"High similarity between OHISAN and OCHISAN"}
+{"level":"warn","message":"High similarity between ochisan and OHISAN"}
+{"level":"warn","message":"High similarity between recobalance and RECO BALANCE"}
+{"level":"warn","message":"High similarity between BIOFLAX and boflax"}
+{"level":"warn","message":"High similarity between boflax and BIOFLAX"}
+{"level":"warn","message":"High similarity between ADAM&EVA and adam-eva"}
+{"level":"warn","message":"High similarity between adam-eva and ADAM&EVA"}
+{"level":"warn","message":"High similarity between dentinale-natura and DENTINALE NATURA"}
+{"level":"warn","message":"High similarity between DR. KONOPKAS and dr-konopka-s"}
+{"level":"warn","message":"High similarity between dr-konopka-s and DR. KONOPKAS"}
+{"level":"warn","message":"High similarity between OCHISAN and OHISAN"}
+{"level":"warn","message":"High similarity between NALGESIN S and NALGESIN"}
+{"level":"warn","message":"High similarity between Nirozal and NIZORAL"}
+{"level":"warn","message":"High similarity between MOMETASONE TEVA and mometasone-teva"}
+{"level":"warn","message":"High similarity between mometasone-teva and MOMETASONE TEVA"}
+{"level":"warn","message":"High similarity between esu-lape and ESU LAPĖ"}
+{"level":"warn","message":"Invalid manufacturer name: AA"}
+{"level":"warn","message":"Invalid manufacturer name: AA"}
+{"level":"warn","message":"High similarity between GASTRO FORTE and gastro-forte"}
+{"level":"warn","message":"High similarity between DR.BRANDT and DR. BRANDT"}
+{"level":"warn","message":"High similarity between Aloe Pura and ALOE VERA"}
+{"level":"warn","message":"Invalid manufacturer name: C4"}
+{"level":"warn","message":"High similarity between FORCE FIVE and ForceFive"}
+{"level":"warn","message":"High similarity between ForceFive and FORCE FIVE"}
+{"level":"warn","message":"High similarity between Psilo-Balsam and PSILO BALSAM"}
+{"level":"warn","message":"High similarity between gastro-forte and GASTRO FORTE"}
+{"level":"warn","message":"High similarity between zolynelis and ŽOLYNĖLIS"}
+{"level":"warn","message":"Invalid manufacturer name: BD"}
+{"level":"warn","message":"Invalid manufacturer name: BD"}
+{"level":"warn","message":"High similarity between PYRANTELUM MEDANA and PIRANTELIS MEDANA"}
+{"level":"info","message":"Flagged manufacturers: 334"}
+{"level":"info","message":"Process completed successfully"}

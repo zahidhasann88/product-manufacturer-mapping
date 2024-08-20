@@ -1,0 +1,6 @@
+{
+  "DB_PATH": "./manufacturer_relations.db",
+  "DATA_DIR": "./data",
+  "LOG_DIR": "./logs",
+  "LOG_LEVEL": "info"
+}
